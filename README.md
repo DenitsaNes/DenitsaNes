@@ -64,9 +64,8 @@ A production-inspired data platform for a fictional European fintech. It ingests
 
 I'm actively looking for a **Junior Data Engineer** role and open to internships, apprenticeships, and freelance projects.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/denitsa-nesheva) *(update link)*
-- 📧 denitsa.nesheva@example.com *(update email)*
-- 🌐 [Portfolio / CV](https://denitsa-nesheva.github.io) *(optional)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/denitsa-nestorova-50313b38b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- 📧 deni.nes3364@gmail.com 
 
 > *“The goal is to turn data into information, and information into insight.” — Carly Fiorina*
 
