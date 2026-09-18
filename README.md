@@ -1,4 +1,4 @@
-# Hi, I'm Denitsa Nesheva 👋
+# Hi, I'm Denitsa Nestorova 👋
 
 ## Junior Data Engineer | SQL · Python · dbt · AWS
 
